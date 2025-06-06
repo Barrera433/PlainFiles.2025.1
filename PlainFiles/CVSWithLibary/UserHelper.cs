@@ -51,7 +51,7 @@ public class UserHelper
 
     }
 
-    private void WriteUsers(List<User> users)
+    public void WriteUsers(List<User> users)
     {
         try
         {
